@@ -35,8 +35,8 @@ This project imitates the original 2048 design with:
 
 ---
 
+### License
 
+This project is open-source under the MIT License.
 
-### GUI Version
-*(Add your own images here later)*
-
+---
